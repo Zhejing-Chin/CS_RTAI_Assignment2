@@ -6,6 +6,10 @@ To implement and compare a traditional CNN and a proposed network with tensorflo
 
 Team: Zhe Jing, JiaRong, Kristyna
 
-git remote add origin https://github.com/Zhejing-Chin/CS_RTAI_Assignment2.git
-git commit -a -m ""
-git push -u origin main
+steps to update:
+
+1. git remote add origin https://github.com/Zhejing-Chin/CS_RTAI_Assignment2.git
+
+2. git commit -a -m ""
+
+3. git push -u origin <branch_name>
